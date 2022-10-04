@@ -169,8 +169,42 @@ table, th, td {
 </table>
 <table style="width:100%">
   <h3>Março</h3>
- 
- <tr>
+ <h5>1 – Carnaval: recesso acadêmico e
+  administrativo</h5>
+  <h5>2 – Recesso acadêmico e administrativo até as
+    12h</h5>
+    <h5>3 – Início das aulas</h5>
+    <h5>9 – Feriado municipal em Joinville: aniversário
+      da cidade</h5>
+      <h5>10 – Reunião do Comitê de Ética em Pesquisa
+      </h5>
+      <h5>12 – Colação de grau do curso de Gestão
+        Comercial (São Bento do Sul, turma de 2021)
+        e Educação Física (bacharelado e licenciatura,
+        Joinville, turmas de 2021)</h5>
+        <h5>14 – Último dia para os alunos matriculados em 2022/1 (regime anual) e 2022-1 (regime
+          semestral) requererem: exame de aproveitamento de estudos, dispensa de disciplina,
+          matrícula em disciplina extracurricular e fora da série</h5>
+        <h5>16 e 17 – Colação de grau especial em Joinville</h5>
+        <h5>17 – Último dia para os alunos matriculados em 2021/1 (regime anual) e 2021-2 (regime
+          semestral) solicitarem matrícula fora do prazo</h5>
+        <h5>18 – Colação de grau – Eng. Química e Arquitetura e Urbanismo (Joinville – turmas
+          de 2019)</h5>
+          <h5>19 – Colação de grau – Direito (noturno, turma de 2021), Administração (1.º semestre
+            de 2021), Educação Física (turma de 2021) e Eng. Mecânica (turma de 2021), todos do
+            Campus São Bento do Sul</h5>
+          <h5>19 – Colação de grau – Ciências Biológicas (licenciatura e bacharelado em MAB),
+            Design, Enfermagem, Eng. de Produção e Publicidade e Propaganda (turmas de 2021)
+            </h5>  
+            <h5>24 – Último dia para alunos matriculados em 2022/1 (regime anual) e 2022-1 (regime
+              semestral) requererem alteração de matrícula</h5>
+              <h5>24 – Data limite para envio de projetos de pesquisa para análise do Comitê de Ética
+                em Pesquisa</h5>
+                <h5>26 – Colação de grau – Comércio Exterior (turma de 2020)</h5>
+    
+    
+    
+          <tr>
     <td>D</td>
     <td>S</td>
     <td>T</td>
@@ -182,57 +216,49 @@ table, th, td {
   <tr>
     <td></td> 
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
     <td>1</td>
-  </tr>
- <tr>
-    <td>2</td> 
+    <td>2</td>
     <td>3</td>
     <td>4</td>
     <td>5</td>
-    <td>6</td>
+  </tr>
+ <tr>
+    <td>6</td> 
     <td>7</td>
     <td>8</td>
-  </tr>
-  <tr>
-    <td>9</td> 
+    <td>9</td>
     <td>10</td>
     <td>11</td>
     <td>12</td>
-    <td>13</td>
-    <td>14</td>
-    <td>15</td>
   </tr>
   <tr>
-    <td>16</td> 
+    <td>13</td> 
+    <td>14</td>
+    <td>15</td>
+    <td>16</td>
     <td>17</td>
     <td>18</td>
     <td>19</td>
-    <td>20</td>
-    <td>21</td>
-    <td>22</td>
   </tr>
   <tr>
-    <td>23</td> 
+    <td>20</td> 
+    <td>21</td>
+    <td>22</td>
+    <td>23</td>
     <td>24</td>
     <td>25</td>
     <td>26</td>
-    <td>27</td>
-    <td>28</td>
-    <td>29</td>
   </tr>
   <tr>
-    <td>30</td> 
+    <td>27</td> 
+    <td>28</td>
+    <td>29</td>
+    <td>30</td>
     <td>31</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
   </tr>
+  
 </table>
 <table style="width:100%">
   <h3>Maio</h3>
@@ -842,4 +868,3 @@ table, th, td {
 
 </body>
 </html>
-
